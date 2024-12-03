@@ -1,5 +1,25 @@
 # Cleric Query Agent Assignment
 
+## My Solution
+
+I extended the provided code to create a more intelligent AI agent that interacts with a Kubernetes cluster and uses GPT-4 to generate precise answers to user queries.
+
+Kubernetes Snapshot Creation
+
+I implemented functionality to collect a detailed snapshot of the Kubernetes cluster, including information about:
+
+	•	Nodes: Names, labels, and statuses.
+	•	Namespaces: Namespaces available in the cluster.
+	•	Pods: Names, namespaces, statuses, node associations, and labels.
+	•	Services: Namespaces, types, IPs, and exposed ports.
+	•	Persistent Volumes and Claims: Capacities, access modes, and statuses.
+ 
+
+This snapshot provides a comprehensive view of the cluster, ensuring accurate answers.
+
+GPT-4 Integration
+
+The cluster snapshot and user query are sent to GPT-4 using OpenAI’s API. I carefully designed the prompts to ensure that GPT-4 outputs concise and precise answers, adhering to the assignment requirements.
 ## Introduction
 This document outlines the requirements and guidelines for the Cleric Query Agent Assignment. Your task is to develop an AI agent capable of accurately answering queries about applications deployed on a Kubernetes cluster.
 
