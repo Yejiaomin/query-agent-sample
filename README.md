@@ -1,5 +1,9 @@
 # Cleric Query Agent Assignment
 
+## Explanation video link： 
+https://northeastern.zoom.us/rec/share/fEvrPt6cbhAjYmYyDrtCHpGEa4_zvzuygpViv87VUCnFLSHVJQHH7jyQRW5lcEK4.z7bvykNQc3K6mUWK
+Passcode: @w#ss3A.
+
 ## My Solution
 
 I extended the provided code to create a more intelligent AI agent that interacts with a Kubernetes cluster and uses GPT-4 to generate precise answers to user queries.
