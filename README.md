@@ -1,8 +1,8 @@
 # Cleric Query Agent Assignment
 
 ## Explanation video link： 
-https://northeastern.zoom.us/rec/share/fEvrPt6cbhAjYmYyDrtCHpGEa4_zvzuygpViv87VUCnFLSHVJQHH7jyQRW5lcEK4.z7bvykNQc3K6mUWK
-Passcode: @w#ss3A.
+[https://northeastern.zoom.us/rec/share/fEvrPt6cbhAjYmYyDrtCHpGEa4_zvzuygpViv87VUCnFLSHVJQHH7jyQRW5lcEK4.z7bvykNQc3K6mUWK
+Passcode: @w#ss3A.](https://drive.google.com/file/d/1xDn7aGAkhFfGL3yc3fSZuDzGIQIzhI8X/view?usp=drive_link)
 
 ## My Solution
 
