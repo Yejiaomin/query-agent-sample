@@ -11,8 +11,10 @@ from openai import OpenAI
 from pydantic import BaseModel, ValidationError
 
 # Load Openai API key from the .env and create open AI client.
-load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    load_dotenv()
+    openai.api_key = os.getenv("OPENAI_API_KEY")
 openai_client = OpenAI(api_key=openai.api_key)
 
 # Configure logging
